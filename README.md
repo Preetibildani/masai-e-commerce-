@@ -1,4 +1,4 @@
-# meesho
+# E-commerce
 Meesho is an e-commerce website clone of a very popular online clothing and Accessories' shopping platform, where users can purchase quality cloths, Accessories and can Get beautiful And Attractive Look.
 
 ## Features:-
